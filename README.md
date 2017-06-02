@@ -1,4 +1,4 @@
-# DeepNeuralNetworks
+# Deep Neural Networks
 These are are the different neural networks coded in vanilla Java without using any deep learning framework
 
 This code was written jointly by Felipe Gutierrez (git_id: felipegb94) and Nikhil S. Nakhate (git_id: nikhil-nakhate) as
